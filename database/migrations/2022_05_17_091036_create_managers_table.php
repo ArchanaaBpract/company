@@ -27,8 +27,8 @@ class CreateManagersTable extends Migration
      *
      * @return void
      */
-    public function down()
-    {
-        Schema::dropIfExists('managers');
-    }
+    // public function down()
+    // {
+    //     Schema::dropIfExists('managers');
+    // }
 }
