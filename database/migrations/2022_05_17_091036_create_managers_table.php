@@ -21,6 +21,7 @@ class CreateManagersTable extends Migration
         });
     }
 
+
     /**
      * Reverse the migrations.
      *
