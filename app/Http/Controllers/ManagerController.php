@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\Manager;
+
 use Illuminate\Http\Request;
 
 class ManagerController extends Controller
